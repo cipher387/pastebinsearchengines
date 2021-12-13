@@ -29,7 +29,18 @@ I have to split 48 sites into 5 search engines because of the limitations of the
 Explore this project in https://cipher387.github.io/pastebinsearchengines/
 
 
-<a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
+<hr>
 
+Twitter — https://twitter.com/cyb_detective
 
 Telegram — https://t.me/cybdetective
+
+Linkedin — https://www.linkedin.com/groups/1908171/
+
+Revue — https://www.getrevue.co/profile/cyb_detective
+
+Github — https://github.com/cipher387
+
+Discord — every week I post a fresh invite on Twitter. You can find it by searching for "discord from:cyb_detective"
+
+<hr>
