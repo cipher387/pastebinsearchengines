@@ -1,8 +1,7 @@
 <h1>5 Google Custom Search Engine for search 48 pastebin sites</h1>
 
-kpaste.net, etherpad.org, everfall.com, friendpaste.com, gist.github.com, hastebin.com, hatebin.com, heypasteit.com, ideone.com, ivpaste.com, justpaste.it, jsbin.com, pst.klgrth.io, notes.io, paste.null-life.com, paste.debian.net, paste.ee, paste.centos.org, invent.kde.org, paste.ofcode.org, paste.opensuse.org, paste.org.ru, paste.rohitab.com, paste.ubuntu.com, paste.xinu.at, paste2.org, paste4btc.com, pasteall.org, pastebin.osuosl.org, pastebin.com, pastebin.pt, pastelink.net, pastie.org, privatebin.net, snipplr.com, textsnip.com, vpaste.net, pastebin.fr
 
-
+Explore this project in https://cipher387.github.io/pastebinsearchengines/
 
 Examples of searches (to find private and sensitive data)
 Emails: "@gmail.com", "@yandex.ru"
@@ -22,11 +21,6 @@ I have to split 48 sites into 5 search engines because of the limitations of the
 
 
 
-
-
-
-
-Explore this project in https://cipher387.github.io/pastebinsearchengines/
 
 
 <hr>
