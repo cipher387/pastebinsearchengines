@@ -1,4 +1,4 @@
-<h1>5 Google Custom Search Engine for search 48 pastebin sites</h1>
+<h1>Google Custom Search Engine for search 48 pastebin sites</h1>
 
 
 Explore this project in https://cipher387.github.io/pastebinsearchengines/
@@ -28,10 +28,6 @@ I have to split 48 sites into 5 search engines because of the limitations of the
 Twitter — https://twitter.com/cyb_detective
 
 Telegram — https://t.me/cybdetective
-
-Linkedin — https://www.linkedin.com/groups/1908171/
-
-Revue — https://www.getrevue.co/profile/cyb_detective
 
 Github — https://github.com/cipher387
 
