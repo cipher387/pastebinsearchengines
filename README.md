@@ -1,6 +1,10 @@
 <h1>Google Custom Search Engine for search 48 pastebin sites</h1>
 
 
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/pastebinsearchengines">
+ 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/pastebinsearchengines">
+
 Explore this project in https://cipher387.github.io/pastebinsearchengines/
 
 Examples of searches (to find private and sensitive data)
