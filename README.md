@@ -5,6 +5,9 @@
  
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/pastebinsearchengines">
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+    <p align="center">
+
 Explore this project in https://cipher387.github.io/pastebinsearchengines/
 
 Examples of searches (to find private and sensitive data)
