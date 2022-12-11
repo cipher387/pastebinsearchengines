@@ -32,12 +32,5 @@ I have to split 48 sites into 5 search engines because of the limitations of the
 
 <hr>
 
-Twitter — https://twitter.com/cyb_detective
 
-Telegram — https://t.me/cybdetective
-
-Github — https://github.com/cipher387
-
-Discord — https://cipher387.github.io/discordlink.html
-
-<hr>
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
