@@ -33,4 +33,4 @@ I have to split 48 sites into 5 search engines because of the limitations of the
 <hr>
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
